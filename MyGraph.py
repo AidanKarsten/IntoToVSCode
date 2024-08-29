@@ -13,3 +13,6 @@ plt.show()
     #pip3 install matplotlib (name of library)
 #version control is everything related to your project: pics, docs etc.
 #source control only refers to the source code
+
+print("Hello World")
+
