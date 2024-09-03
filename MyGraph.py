@@ -16,5 +16,4 @@ plt.show()
 
 print("Hello World")
 
-print("Hello again!")
 
